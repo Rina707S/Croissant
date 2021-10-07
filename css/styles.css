@@ -10,8 +10,20 @@ h1 {
 }
 
 p {
-  text-align: inherit;
+  text-align: justify;
   font-size: 24px;
+}
+
+a {
+  font-size: 24px;
+}
+
+img {
+  display: block;
+  margin: 0 auto 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px gray;
 }
 
 .cruissant {
